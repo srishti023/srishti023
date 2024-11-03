@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 email: srishtichoudhary52@gmail.com
 
-My Badges:
+## My HacktoberFest 2024 Badges:
 
 [![An image of @srisht_iii023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srisht_iii023)](https://holopin.io/@srisht_iii023)
 <!---
