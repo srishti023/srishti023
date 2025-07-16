@@ -1,3 +1,9 @@
+### Quote of the Day
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</div>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+
 - 👋 Hi, I’m @srishti023
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning ...
@@ -35,12 +41,22 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-### 📊 GitHub Stats:
-![Srishti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishti023&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srishti023&theme=radical&hide_border=false)](https://git.io/streak-stats)
-### 📈 Activity Graph:
+<p align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=srishti023&show_icons=true&theme=radical" width="48%" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=srishti023&theme=radical&hide_border=false" width="48%" />
+  </div>
+</p>
+
+## 📈 Activity Graph
+
 [![Srishti's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srishti023&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Srishti's productivity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srishti023&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-choudhary/)
