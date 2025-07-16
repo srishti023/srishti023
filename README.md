@@ -60,6 +60,6 @@ You can click the Preview link to take a look at your changes.
 [![Srishti's productivity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srishti023&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-choudhary/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srishtichoudhary/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your_username)
