@@ -25,3 +25,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
+
+### 📊 GitHub Stats:
+![Srishti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishti023&show_icons=true&theme=radical)
+
+### 🔥 Contribution Graph:
+[![GitHub Streak](https://streak-stats.demolab.com?user=srishti023&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+### 📈 Activity Graph:
+[![Srishti's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srishti023&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
