@@ -26,9 +26,23 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
+### 🛠️ Languages & Tools:
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
 ### 📊 GitHub Stats:
 ![Srishti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishti023&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srishti023&theme=radical&hide_border=false)](https://git.io/streak-stats)
 ### 📈 Activity Graph:
 [![Srishti's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srishti023&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-choudhary/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your_username)
