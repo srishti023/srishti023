@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </div>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Srishti+Choudhary;Passionate+Web+Developer;Open+Source+Contributor;Shefischolar+%7C+Aspire+Leader&center=true&width=1000&height=60&color=F7F7F7&font=Fira%20Code&size=22&pause=1000">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
 
 - 👋 Hi, I’m @srishti023
