@@ -11,6 +11,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 email: srishtichoudhary52@gmail.com
 
+### 🏅 GitHub Achievements
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" title="Pull Shark"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100px" title="Quickdraw"/>
+</div>
+
 ## My HacktoberFest 2024 Badges:
 
 [![An image of @srisht_iii023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srisht_iii023)](https://holopin.io/@srisht_iii023)
